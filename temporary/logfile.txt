@@ -1,0 +1,4 @@
+[29.05.2017 09:03:31] -- begin install ----------------------------------
+[29.05.2017 09:03:52] -- installation finished without error ------------
+[29.05.2017 09:04:02] login: admin as user
+[29.05.2017 09:04:16] KSPI axAction (admin): securityWarning
